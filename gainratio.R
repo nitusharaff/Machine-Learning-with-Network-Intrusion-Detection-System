@@ -1,6 +1,6 @@
 library(mlbench)
 library(FSelector)
-train= read.csv("D:\\sem 6\\pattern classification\\nslkddtrain1.csv" )
+train= read.csv("nslkddtrain1.csv" )
 
 weights <- information.gain(Attacks~., train)
 print(weights)
