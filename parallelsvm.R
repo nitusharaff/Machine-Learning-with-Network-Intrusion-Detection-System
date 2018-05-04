@@ -1,4 +1,4 @@
-= read.csv("nslkddtrain19.csv" )
+train= read.csv("nslkddtrain19.csv" )
 library(e1071)
 
 # load the libraries
