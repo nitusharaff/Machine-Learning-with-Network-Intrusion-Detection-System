@@ -25,6 +25,7 @@ After feature selection, we divide the obtained data to use 70% of the entire da
 
 
 <h3> EVALUATION OF CLASSIFICATION USING NON-SCALABLE PLATFORM </h3>
+
 ![Alt text](/screenshots/Screenshot3.png)
 
 <h3> APACHE SPARK AS A SCALABLE PLATFORM </h3>
@@ -33,6 +34,7 @@ The initial approach towards the modeling of classifiers was performed on a non-
 The above mentioned scalable processing on Spark was performed on a single cluster single node having 8 Gigabytes of memory, 121 Gigabytes of disk space and 4 VCPUs.
 
 <h3> EVALUATION OF CLASSIFICATION USING SCALABLE PLATFORM </h3>
+
 ![Alt text](/screenshots/Screenshot4.png)
 
 <h3> COMPARISON OF SCALABLE AND NON-SCALABLE PLATFORM </h3>
